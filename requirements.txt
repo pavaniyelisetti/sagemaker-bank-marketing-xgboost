@@ -1,0 +1,7 @@
+# Core AWS SDKs
+boto3>=1.43.0
+sagemaker>=2.257.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.26.0
